@@ -12,17 +12,18 @@
   },
   "author": "Carolyn Tevnan",
   "license": "ISC",
-  "devDependencies":{
+  "devDependencies": {
     "babel-core": "5.8.*",
     "babel-loader": "5.3.*",
     "webpack": "1.12.*"
   },
-  "dependencies":{
-    "react":"^0.14.7",
-    "react-dom": "^0.14.7",
+  "dependencies": {
     "express": "*",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
     "socket.io": "*",
-    "socket.io-client": "*"
+    "socket.io-client": "*",
+    "webpack": "^1.12.15"
   },
   "bugs": {
     "url": "https://github.com/ctevnan/socket-chat/issues"
